@@ -1,0 +1,9 @@
+{
+	"id": "interactive-svgs",
+	"name": "Interactive SVGs",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Allows the usage of Obsidian links within SVGs.",
+	"author": "Bexy_Lyn",
+	"isDesktopOnly": false
+}
